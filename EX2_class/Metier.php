@@ -9,6 +9,11 @@ class TODO {
         $this->categorie = $categorie;
     }
 
+
+    public function hello(){
+    echo 'hello';
+    
+    }
 }
 
 class TODOList {
